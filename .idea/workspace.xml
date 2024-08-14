@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="ex026">
-      <change afterPath="$PROJECT_DIR$/aulas/aula10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex028.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,25 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.aula09.executor": "Run",
-    "Python.aula10.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex023.executor": "Run",
-    "Python.ex024.executor": "Run",
-    "Python.ex025.executor": "Run",
-    "Python.ex026.executor": "Run",
-    "Python.ex027.executor": "Run",
-    "Python.ex028.executor": "Run",
-    "Python.ex029.executor": "Run",
-    "Python.ex030.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP PAVILION 23\PycharmProjects\pythonProject\exercicios" />
