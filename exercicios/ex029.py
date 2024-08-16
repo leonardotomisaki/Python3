@@ -1,5 +1,5 @@
 vel = int(input('Digite a velocidade em que você dirigia:'))
-km= vel - 80
+km = vel - 80
 multa = km * 7
 if vel > 80:
     print('Você estava acima do limite de velocidade. Você foi multado!')
