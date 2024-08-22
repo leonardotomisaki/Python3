@@ -7,8 +7,8 @@ x3 = (20 / 100) * prod + prod
 if pag == 'DINHEIRO' or pag == 'CHEQUE':
     print('O valor do seu produto com 10% de desconto é {}'.format(prod - vista))
 elif pag == 'CARTÃO A VISTA':
-    print('O valor do seu produto com desconto é {}'.format(prod - cartao))
+    print('O valor do seu produto com 5% desconto é {}'.format(prod - cartao))
 elif pag == '3X OU MAIS':
     print('O valor de seu produto com 20% de juros é {}'.format(x3))
 else:
-    print('Forma de Pagamento não aceito')
+    print('Forma de pagamento inválido! Tente novamente')
