@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
+      <change afterPath="$PROJECT_DIR$/aulas/aula13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,41 +57,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex045.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula09.executor": "Run",
+    "Python.aula10.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP PAVILION 23\PycharmProjects\pythonProject\exercicios" />
@@ -189,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724294072454</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1724362250349</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724362250349</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
