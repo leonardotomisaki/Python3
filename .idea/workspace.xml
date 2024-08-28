@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex071.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,7 @@
     "Python.aula12.executor": "Run",
     "Python.aula13.executor": "Run",
     "Python.aula14.executor": "Run",
+    "Python.aula15.executor": "Run",
     "Python.ex021.executor": "Run",
     "Python.ex022.executor": "Run",
     "Python.ex023.executor": "Run",
@@ -104,6 +104,9 @@
     "Python.ex062.executor": "Run",
     "Python.ex063.executor": "Run",
     "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex069.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios"
