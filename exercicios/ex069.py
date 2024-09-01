@@ -1,20 +1,20 @@
 idade = homens = mulheres = dezoito = 0
 sexo = continuar = ''
+print('-=' * 10)
+print('CADASTRO')
+print('-=' * 10)
 while True:
-    print('-=' * 10)
-    print('CADASTRO')
-    print('-=' * 10)
     idade = int(input('Idade: '))
     sexo = str(input('Sexo [M/F]: ')).upper().strip()
     print('-=' * 10)
     continuar = str(input('Quer continuar? [S/N]: ')).upper().strip()
     print('-=' * 10)
-    while sexo != 'M' or 'F':
+    '''while sexo != 'M' or 'F':
         sexo = str(input('Sexo [M/F]: ')).upper().strip()
         print('-=' * 10)
     while continuar != 'S' or 'N':
         continuar = str(input('Quer continuar? [S/N]: ')).upper().strip()
-        print('-=' * 10)
+        print('-=' * 10)'''
     if idade > 18:
         dezoito = dezoito + 1
     if idade < 20 and sexo == 'F':
