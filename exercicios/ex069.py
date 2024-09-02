@@ -6,15 +6,12 @@ print('-=' * 10)
 while True:
     idade = int(input('Idade: '))
     sexo = str(input('Sexo [M/F]: ')).upper().strip()
-    print('-=' * 10)
-    continuar = str(input('Quer continuar? [S/N]: ')).upper().strip()
-    print('-=' * 10)
-    '''while sexo != 'M' or 'F':
+    while sexo not in 'MF':
         sexo = str(input('Sexo [M/F]: ')).upper().strip()
-        print('-=' * 10)
-    while continuar != 'S' or 'N':
+        print("-=" * 10)
+    continuar = str(input('Quer continuar? [S/N]: ')).upper().strip()
+    while continuar not in 'SN':
         continuar = str(input('Quer continuar? [S/N]: ')).upper().strip()
-        print('-=' * 10)'''
     if idade > 18:
         dezoito = dezoito + 1
     if idade < 20 and sexo == 'F':
