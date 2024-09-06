@@ -1,0 +1,5 @@
+list = ('Notebook', 8000, 'Mouse', 70, 'Mochila', 150, 'Teclado', 120, 'MousePad', 50, 'Fone', 149.90, 'Celular', 1500, 'Pendrive', 100)
+print('-'*30)
+print('       LISTA DE PREÇOS')
+print('-'*30)
+print(list)

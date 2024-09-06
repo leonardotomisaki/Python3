@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/aulas/aula16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +60,7 @@
     "Python.aula14.executor": "Run",
     "Python.aula15.executor": "Run",
     "Python.aula16.executor": "Run",
+    "Python.ex0076.executor": "Run",
     "Python.ex021.executor": "Run",
     "Python.ex022.executor": "Run",
     "Python.ex023.executor": "Run",
@@ -105,6 +111,11 @@
     "Python.ex069.executor": "Run",
     "Python.ex070.executor": "Run",
     "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex077.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios"
@@ -273,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725312942145</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1725504211040</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725504211040</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
