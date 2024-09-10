@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex072.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex073.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex077.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,8 @@
     "Python.ex077.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios"
+    "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -292,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725504211040</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1725580911140</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725580911140</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

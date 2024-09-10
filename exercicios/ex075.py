@@ -1,18 +1,11 @@
-num1 = int(input('1º número: '))
-num2 = int(input('2º número: '))
-num3 = int(input('3º número: '))
-num4 = int(input('4º número: '))
-tupla = (num1, num2, num3, num4)
-pares = 0
-if num1 % 2 == 0:
-    pares = num1
-elif num2 % 2 == 0:
-    pares = num2
-elif num3 % 2 == 0:
-    pares = num3
-elif num4 % 2 == 0:
-    pares = num4
-print(f'Você digitou os valores {tupla}')
-print(f'O número 9 apareceu {tupla.count(9)} vez(es)')
-print(f'O primeiro número 3 apareceu na posição {tupla.index(3) + 1}')
+num = (int(input('1º número: ')),
+        (int(input('2º número: ')),
+        (int(input('3º número: ')),
+        (int(input('4º número: ')))
+print(f'Você digitou os valores {num}')
+print(f'O número 9 apareceu {num.count(9)} vez(es)')
+if 3 in num:
+    print(f'O primeiro número 3 apareceu na {num.index(3) + 1}ª posição.')
+else:
+    print('O número 3 não digitado')
 print(f'Tivemos como números pares: {pares}')

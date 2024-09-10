@@ -1,5 +1,7 @@
 palavras = ('chao', 'bolsa', 'computador', 'oculos', 'camisa')
 
 vogais = ''
-for cont in range(0, len(palavras)):
-    print(f'Na palavra {palavras[cont]} temos as vogais: ')
+for vog in range(len(palavras)):
+    if palavras[vog]:
+        vogais = 'aeiou'
+    print(f'Na palavra {palavras[vog]} temos as vogais: {vogais} ')
