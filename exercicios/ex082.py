@@ -1,7 +1,6 @@
 lista = []
 imp = []
 par = []
-
 while True:
     valor = int(input("Digite um número: "))
     lista.append(valor)

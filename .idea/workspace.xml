@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/aulas/aula17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex079.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex080.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex082.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.aula15.executor": "Run",
     "Python.aula16.executor": "Run",
     "Python.aula17.executor": "Run",
+    "Python.aula18.executor": "Run",
     "Python.ex0076.executor": "Run",
     "Python.ex021.executor": "Run",
     "Python.ex022.executor": "Run",
@@ -119,8 +120,10 @@
     "Python.ex077.executor": "Run",
     "Python.ex078.executor": "Run",
     "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
     "Python.ex081.executor": "Run",
     "Python.ex082.executor": "Run",
+    "Python.ex083.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios",
@@ -322,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726088452469</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1728440746405</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728440746405</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

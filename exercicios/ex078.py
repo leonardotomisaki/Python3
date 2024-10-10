@@ -1,22 +1,28 @@
 lista = []
 menor = 0
 maior = 0
-c_maior = 0
-c_menor = 0
-for valores in range(0, 5):
-    lista.append(int(input("Digite um valor: ")))
-
-for c, v in enumerate(lista):
-    if c == 0:
-        maior = v
-        menor = v
-        c_maior = c
-        c_menor = c
-    elif v > maior:
-        maior = v
-        c_maior = c
-    elif v < menor:
-        menor = v
-        c_menor = c
-print(f"O maior valor registrado foi {maior}, e está localizado na posição {c_maior}")
-print(f"O menor valor registrado foi {menor}, e está localizado na posição {c_menor}")
+pos_maior = 0
+pos_menor = 0
+for pos in range(0, 5):
+    lista.append(int(input("Digite um número: ")))
+    if(pos == 0):
+        maior = menor = lista[pos]
+        pos_maior = pos
+        pos_menor = pos
+    elif(lista[pos] > maior):
+        maior = lista[pos]
+        pos_maior = pos
+    elif(lista[pos] < menor):
+        menor = lista[pos]
+        pos_menor = pos
+print("=-" * 30)
+print(f"Lista: {lista}")
+print(f"O maior valor registrado foi {maior}, e está nas posições: ", end="")
+for i, v in enumerate(lista):
+    if v == maior:
+        print(f"{i}... ", end='')
+print()
+print(f"O menor valor registrado foi {menor}, e está nas posições: ", end="")
+for i, v in enumerate(lista):
+    if v == menor:
+        print(f"{i}... ", end="")
