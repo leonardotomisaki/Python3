@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/aulas/aula18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex087.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex078.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex079.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex080.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex082.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +122,10 @@
     "Python.ex081.executor": "Run",
     "Python.ex082.executor": "Run",
     "Python.ex083.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
+    "Python.ex087.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios",
@@ -333,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728440746405</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1728525693514</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525693514</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
