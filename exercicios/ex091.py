@@ -1,9 +1,13 @@
-alunos = dict()
-alunos['Nome'] = str(input("Nome: "))
-alunos['Média'] = float(input("Média: "))
-if(alunos['Média'] >= 7):
-    alunos['Situação'] = 'Aprovado'
-else:
-    alunos['Situação'] = 'Reprovado'
-for k, v in alunos.items():
-    print(f'{k} do aluno é {v}')
+import random
+import time
+sorteio = dict()
+lista = list()
+for c in range(0, 4):
+    sorteio[f'Jogador {c + 1}'] = random.randint(1, 6)
+print("VALORES SORTEADOS")
+for k, v in sorteio.items():
+    time.sleep(0.5)
+    print(f'O {k} tirou {v}')
+print("-=" * 30)
+print("RANKING DOS JOGADORES")
+lista.append(sorteio.copy())

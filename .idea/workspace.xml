@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2d2b78-7861-4c88-9f3c-b2307f093401" name="Changes" comment="aulas e ex">
-      <change afterPath="$PROJECT_DIR$/aulas/aula19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex093.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex090.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex091.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex092.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex092.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +132,7 @@
     "Python.ex090.executor": "Run",
     "Python.ex091.executor": "Run",
     "Python.ex092.executor": "Run",
+    "Python.ex093.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP PAVILION 23/PycharmProjects/pythonProject/exercicios",
@@ -364,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728958678512</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="aulas e ex">
+      <option name="closed" value="true" />
+      <created>1729218659517</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729218659517</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

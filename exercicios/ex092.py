@@ -1,14 +1,17 @@
-import random
-import time
-sorteio = dict()
-lista = list()
-for c in range(0, 4):
-    sorteio[f'Jogador {c + 1}'] = random.randint(1, 6)
-print("VALORES SORTEADOS")
-for k, v in sorteio.items():
-    time.sleep(0.5)
-    print(f'O {k} tirou {v}')
-    if(v)
+from datetime import datetime
+clt = dict()
+clt["Nome"] = str(input("Nome: "))
+clt["Nascimento"] = int(input("Ano de Nascimento: "))
+clt["Idade"] = datetime.now().year - clt["Nascimento"]
+clt["CTPS"] = int(input("Carteira de Trabalho (0 se não tem): "))
+if(clt["CTPS"] == 0):
+    print("-=" * 30)
+    for k,v in clt.items():
+        print(f"{k} é {v}")
+    exit()
+clt["Contratação"] = int(input("Ano de Contratação: "))
+clt["Salário"] = float(input("Salário: "))
+clt["Aposentadoria"] = clt["Contratação"] + 35
 print("-=" * 30)
-print("RANKING DOS JOGADORES")
-lista.append(sorteio.copy())
+for k,v in clt.items():
+    print(f"{k} é {v}")
