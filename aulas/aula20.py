@@ -1,10 +1,10 @@
-def lin():
-    print("-"*30)
+def dobro(lista):
+    pos = 0
+    while pos < len(lista):
+        lista[pos] *= 2
+        pos += 1
 
-lin()
-print("RED DEAD REDEMPTION")
-lin()
-print("ASSASSINS CREED")
-lin()
-print("CALL OF DUTY")
-lin()
+
+valores = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+dobro(valores)
+print(valores)
