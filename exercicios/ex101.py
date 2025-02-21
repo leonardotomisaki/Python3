@@ -1,7 +1,8 @@
-from datetime import datetime
+
 
 def voto(ano):
     global idade
+    from datetime import datetime
     idade = datetime.now().year - ano
     print(f"Com {idade} anos: ")
     if idade < 16:

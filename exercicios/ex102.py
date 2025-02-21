@@ -1,11 +1,13 @@
-def fatorial(n, show = False):
-    for f in range(n, 1, -1):
-            f *= n
-    if show == True:
-        for i in range(n, 1, -1):
-            print(i, end=" x ")
-        print("1 =", f)
+def fatorial(n=1, show=False):
+    f = 1
+    for c in range(n, 0, -1):
+        f *= c
+        if show:
+            if c > 1:
+                print(c, end=" x ")
+            else:
+                print(c, end=" = ")
     return f
 
 # Programa Principal
-print(fatorial(2, True))
+print(fatorial(5, True))
